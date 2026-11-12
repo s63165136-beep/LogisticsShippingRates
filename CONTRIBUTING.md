@@ -20,4 +20,6 @@ All contributions undergo a code review process
 Licensing:
 Contributions are licensed
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. 
+
 Thank you for your contributions!
