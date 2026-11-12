@@ -14,4 +14,10 @@ Before submitting a pull request, make sure your changes have been tested thorou
 Issue Tracker 
 Check the issue tracker for any open issues or feature requests. If you're working on something, please comment on the issue to let others know.
 
+Code Review:
+All contributions undergo a code review process
+
+Licensing:
+Contributions are licensed
+
 Thank you for your contributions!
